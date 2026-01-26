@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**niwobyte/niwobyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 16-yo Aspiring Developer | Python & Web Enthusiast
 
-Here are some ideas to get you started:
+I am a results-oriented developer focused on building clean and efficient code. I enjoy solving logical problems and creating tools that make life easier. Despite my young age, I am dedicated to continuous growth and mastering modern software architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** 
+  ![Python](https://img.shields.io)
+  ![JavaScript](https://img.shields.io)
+- **Web Technologies:**
+  ![HTML5](https://img.shields.io)
+  ![CSS3](https://img.shields.io)
+
+---
+
+### 🚀 Current Work
+- 🔭 **Working on:** **Password Generator Web App** — a secure and customizable tool built with JavaScript.
+- 🌱 **Learning:** Backend development with Python and advanced CSS layouts.
+- 🎯 **2026 Goal:** Master full-stack development and launch 3+ production-ready projects.
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app"/>
+<img height="180em" src="https://github-readme-stats.vercel.app"/>
+</p>
+
