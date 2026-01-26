@@ -9,7 +9,7 @@ I am a results-oriented developer focused on building clean and efficient code. 
 ### 🛠 Tech Stack
 
 - **Languages:** 
-  ![Python](https://img.shields.io)
+  ![Python]([https://img.shields.io](https://img.shields.io/pypi/pyversions/:packageName))
   ![JavaScript](https://img.shields.io)
 - **Web Technologies:**
   ![HTML5](https://img.shields.io)
