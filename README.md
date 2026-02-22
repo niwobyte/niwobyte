@@ -6,6 +6,13 @@ I am a results-oriented developer focused on building clean and efficient code. 
 
 ---
 
+
+### 🪪My Path
+
+I started learning programming from YouTube videos after I chose to write a program for a school project. After that, I became very interested in coding and in the near future I plan to make my first mods for Minecraft and games. Although I have already made clicker-type games based on Godot, I want to make something more serious and upload it to Steam.
+
+---
+
 ### 🛠 Tech Stack
 
 - **Languages:**  
