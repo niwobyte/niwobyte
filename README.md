@@ -34,5 +34,5 @@ I started learning programming from YouTube videos after I chose to write a prog
 ### 🚀 Current Work
 - 🔭 **Working on:** **Password Generator Web App** — a secure tool built with JavaScript.
 - 🌱 **Learning:** Advanced Python and modern CSS Layouts.
-- 🎯 **2026 Goal:** Build a full-stack application and launch my first production-ready project.>
+- 🎯 **2026 Goal:** Develop a fully functional application and create your first mods for Minecraft.
 
