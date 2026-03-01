@@ -18,6 +18,7 @@ I started learning programming from YouTube videos after I chose to write a prog
 - **Languages:**  
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+  [![Java](https://www.java.com/de/)
 
 - **Web Technologies:**  
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)  
