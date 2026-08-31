@@ -8,7 +8,7 @@
 
 
 ### Über mich:
-Ich programmiere erst seit relativ kurzer Zeit (ein paar Monaten), kenne aber schon die Grundlagen von Python und Java. Am meisten Spass macht es mir, Logik aufzubauen. 
+Ich programmiere erst seit relativ kurzer Zeit (seit rund 8 Monaten), kenne aber schon die Grundlagen von Python und Java. Am meisten Spass macht es mir, Logik aufzubauen. 
 Deshalb gehe ich oft auf LeetCode, um zu üben, wie man schnell und sauber logische Strukturen entwickelt.
 Mein aktuelles Ziel ist es, eine Lehrstelle zu finden, bei der ich ein tolles Team haben werde und mein Hobby zu meinem Beruf machen kann.
 
