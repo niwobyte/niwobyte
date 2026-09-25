@@ -16,7 +16,7 @@ Mein aktuelles Ziel ist es, eine Lehrstelle zu finden, bei der ich ein tolles Te
 ---
 
 
-- **Programmiersprachen, die ich kenne:**  
+- **Programmiersprachen:**  
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)](https://www.java.com/de/)
 
