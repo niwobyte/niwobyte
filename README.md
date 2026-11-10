@@ -30,7 +30,6 @@ Mein aktuelles Ziel ist es, eine Lehrstelle zu finden, bei der ich ein tolles Te
 
 ---
 
-### Meine Ziele
+### Mein Ziel
 * Eine Lehrstelle als Informatiker EFZ Applikationsentwicklung zu finden
-* Meine ersten Modifikationen für Minecraft zu entwickeln
-* So viel auf LeetCode zu üben, dass ich richtig schnell logische Probleme lösen kann
+
