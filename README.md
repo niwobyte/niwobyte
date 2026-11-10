@@ -9,8 +9,8 @@
 
 ### Über mich:
 Ich programmiere erst seit relativ kurzer Zeit (seit rund 11 Monaten), kenne aber schon die Grundlagen von Python und Java. Am meisten Spass macht es mir, Logik aufzubauen. 
-Deshalb gehe ich oft auf LeetCode, um zu üben, wie man schnell und sauber logische Strukturen entwickelt.
-Mein aktuelles Ziel ist es, eine Lehrstelle zu finden, bei der ich ein tolles Team haben werde und mein Hobby zu meinem Beruf machen kann.
+Ich arbeite gerade an einem Launcher für Minecraft, den wir gemeinsam mit meinen Freunden entwickeln.
+Mein aktuelles Ziel ist es, das zu tun, was mich glücklich macht.
 
 
 ---
@@ -21,15 +21,4 @@ Mein aktuelles Ziel ist es, eine Lehrstelle zu finden, bei der ich ein tolles Te
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)](https://www.java.com/de/)
 
 
----
-
-### Meine Stärken 
-* **Logisches Denken:** Ich kann ziemlich gut komplexe Probleme lösen und mag es, weil es für mich wie ein kleines Rätselspiel ist.
-* **Teamfähigkeit:** Ich mag es richtig, in einem Kollektiv zu schaffen, wo wir alle zusammen das Rätselspiel lösen können.
-* **Motivation:** Ich bin richtig motiviert, in eine professionelle Umgebung einzusteigen, wo ich mit einem coolen Team zusammen richtig coole Sachen entwickeln werde und wir zusammen unser Wissen in der IT erweitern können.
-
----
-
-### Mein Ziel
-* Eine Lehrstelle als Informatiker EFZ Applikationsentwicklung zu finden
 
